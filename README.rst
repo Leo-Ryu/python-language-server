@@ -15,6 +15,10 @@ Python Language Server
 
 A Python 2.7 and 3.5+ implementation of the `Language Server Protocol`_.
 
+[Deepnote] Local development
+------------
+Run ``python -m pyls --tcp --host 0.0.0.0 -v`` to start language server, before launching colaboration service.
+
 Installation
 ------------
 
