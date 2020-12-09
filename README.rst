@@ -152,6 +152,10 @@ Install `VSCode <https://code.visualstudio.com/download>`_
 Then to debug, click View -> Output and in the dropdown will be pyls.
 To refresh VSCode, press `Cmd + r`
 
+Reference Docs
+---------------
+https://docs.contour.so/deepnote/python-language-server/README
+
 License
 -------
 
